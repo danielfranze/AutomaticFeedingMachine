@@ -4,6 +4,12 @@ AutomaticFeedingMachine is an implementation of a static scheduler (Round-robin)
 
 See also: https://en.wikipedia.org/wiki/Round-robin_scheduling.
 
+Requirements
+--------------------
+
+- Clang compiler front end
+- Linux operating system
+
 Installation
 --------------------
 
@@ -15,6 +21,7 @@ Technologies
 
 ![](assets/icons/c.png)
 ![](assets/icons/gnu.png)
+![](assets/icons/clang.png)
 
 License
 -------
