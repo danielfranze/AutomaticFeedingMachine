@@ -7,8 +7,8 @@ See also: https://en.wikipedia.org/wiki/Round-robin_scheduling.
 Requirements
 --------------------
 
-- Clang compiler front end
-- Linux operating system
+- Linux (operating system)
+- Clang (compiler front end)
 
 Installation
 --------------------
@@ -19,9 +19,9 @@ Installation
 Technologies
 ----------------------
 
-![c](assets/icons/c.png)
-![gnu](assets/icons/gnu.png)
-![clang](assets/icons/clang.png)
+![](assets/icons/c.png)
+![](assets/icons/gnu.png)
+![](assets/icons/clang.png)
 
 License
 -------
