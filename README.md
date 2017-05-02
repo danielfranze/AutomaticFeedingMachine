@@ -19,9 +19,9 @@ Installation
 Technologies
 ----------------------
 
-![](assets/icons/c.png)
-![](assets/icons/gnu.png)
-![](assets/icons/clang.png)
+![c](assets/icons/c.png)
+![gnu](assets/icons/gnu.png)
+![clang](assets/icons/clang.png)
 
 License
 -------
